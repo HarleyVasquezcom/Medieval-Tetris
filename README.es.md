@@ -10,6 +10,8 @@ Creado con HTML5 canvas + JavaScript puro — sin paso de compilación, sin fram
 `npm install`. Se juega directamente desde `index.html` (incluso sobre `file://`) y
 se despliega como sitio estático en Vercel.
 
+![Medieval Tetris — nivel 563](docs/screenshot.png)
+
 <p align="center">
   <a href="https://tetris-medieval.vercel.app"><strong>▶ Juega ya</strong></a> ·
   <a href="docs/LEVELS.md"><strong>Diseño de niveles</strong></a> ·
