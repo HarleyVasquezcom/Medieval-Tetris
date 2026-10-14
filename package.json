@@ -1,0 +1,21 @@
+{
+  "name": "medieval-tetris",
+  "version": "1.0.0",
+  "description": "Medieval Tetris — 1000 levels from very easy to very hard, medieval design, 6 languages.",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node serve.js 8090",
+    "dev": "node serve.js 8090",
+    "test": "node test/levels.test.js"
+  },
+  "keywords": [
+    "tetris",
+    "medieval",
+    "game",
+    "html5",
+    "canvas",
+    "1000-levels",
+    "i18n"
+  ]
+}

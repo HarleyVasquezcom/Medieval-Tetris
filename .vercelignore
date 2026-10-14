@@ -1,0 +1,9 @@
+# Ship only the game itself
+.git/
+.vercel/
+test/
+docs/
+serve.js
+package.json
+README*
+LICENSE
