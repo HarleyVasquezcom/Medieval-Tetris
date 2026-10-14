@@ -2,10 +2,9 @@
 
 **Jeu en ligne : [https://tetris-medieval.vercel.app](https://tetris-medieval.vercel.app)**
 
-Un Tetris complet, sans aucune dépendance, avec **1000 niveaux jouables**, du
-*très facile* au *très difficile*, plongé dans un monde médiéval : murs de
-pierre, blocs de gemmes héraldiques, châteaux en fond, lumière des torches et
-grades allant de **Page** à **Légende**.
+Un Tetris complet, sans aucune dépendance, avec **1000 niveaux jouables**, du *très facile* au
+*très difficile*, plongé dans un monde médiéval : murs de pierre, blocs de gemmes héraldiques,
+châteaux en fond, lumière des torches et grades allant de **Page** à **Légende**.
 
 Réalisé en HTML5 canvas + JavaScript brut — sans build, sans framework, sans
 `npm install`. Jouable directement depuis `index.html` (même en `file://`) et
